@@ -1,5 +1,5 @@
 {
-  "name": "react-mde",
+  "name": "@fhessenberger/react-mde",
   "version": "8.0.2",
   "description": "React Markdown Editor",
   "main": "./lib/js/index.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrerpena/react-mde.git"
+    "url": "git+https://github.com/fhessenberger/react-mde.git"
   },
   "keywords": [
     "react",

@@ -3,5 +3,6 @@ logs
 *.log*
 .idea
 node_modules
+lib
 /.vscode/
 ts-build/
